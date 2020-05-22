@@ -6,7 +6,7 @@
 
 using Graph = vector<vector<int>>;
 
-//DFS(深さ優先探索)
+//DFS(再帰関数で)
 vector<bool> seen;
 void dfs(const Graph &G, int v) {
     
