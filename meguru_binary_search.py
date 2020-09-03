@@ -1,5 +1,3 @@
-# めぐる式二分探索
-
 def is_ok(arg):
     # 条件
     pass
