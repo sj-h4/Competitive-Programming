@@ -1,4 +1,2 @@
-# Conpetitive-Programing
+# Competitive-Programming
 テンプレだったりライブラリだったり
-
-使えそうなのを残しとくやつ
